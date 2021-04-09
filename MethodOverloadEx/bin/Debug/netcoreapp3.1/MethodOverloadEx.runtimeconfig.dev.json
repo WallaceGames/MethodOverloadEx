@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\thewa\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\thewa\\.nuget\\packages"
+    ]
+  }
+}

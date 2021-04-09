@@ -1,0 +1,13 @@
+C:\Users\thewa\repos\MethodOverloadEx1\MethodOverloadEx\obj\Debug\netcoreapp3.1\MethodOverloadEx.csprojAssemblyReference.cache
+C:\Users\thewa\repos\MethodOverloadEx1\MethodOverloadEx\obj\Debug\netcoreapp3.1\MethodOverloadEx.AssemblyInfoInputs.cache
+C:\Users\thewa\repos\MethodOverloadEx1\MethodOverloadEx\obj\Debug\netcoreapp3.1\MethodOverloadEx.AssemblyInfo.cs
+C:\Users\thewa\repos\MethodOverloadEx1\MethodOverloadEx\obj\Debug\netcoreapp3.1\MethodOverloadEx.csproj.CoreCompileInputs.cache
+C:\Users\thewa\repos\MethodOverloadEx1\MethodOverloadEx\bin\Debug\netcoreapp3.1\MethodOverloadEx.exe
+C:\Users\thewa\repos\MethodOverloadEx1\MethodOverloadEx\bin\Debug\netcoreapp3.1\MethodOverloadEx.deps.json
+C:\Users\thewa\repos\MethodOverloadEx1\MethodOverloadEx\bin\Debug\netcoreapp3.1\MethodOverloadEx.runtimeconfig.json
+C:\Users\thewa\repos\MethodOverloadEx1\MethodOverloadEx\bin\Debug\netcoreapp3.1\MethodOverloadEx.runtimeconfig.dev.json
+C:\Users\thewa\repos\MethodOverloadEx1\MethodOverloadEx\bin\Debug\netcoreapp3.1\MethodOverloadEx.dll
+C:\Users\thewa\repos\MethodOverloadEx1\MethodOverloadEx\bin\Debug\netcoreapp3.1\MethodOverloadEx.pdb
+C:\Users\thewa\repos\MethodOverloadEx1\MethodOverloadEx\obj\Debug\netcoreapp3.1\MethodOverloadEx.dll
+C:\Users\thewa\repos\MethodOverloadEx1\MethodOverloadEx\obj\Debug\netcoreapp3.1\MethodOverloadEx.pdb
+C:\Users\thewa\repos\MethodOverloadEx1\MethodOverloadEx\obj\Debug\netcoreapp3.1\MethodOverloadEx.genruntimeconfig.cache
